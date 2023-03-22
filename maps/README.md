@@ -1,0 +1,1 @@
+run ```npx parcel index.html``` to view the app.
