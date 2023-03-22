@@ -1,1 +1,1 @@
-run ```npx parcel index.html``` to view the app.
+Run ```npx parcel index.html``` to view the app.
