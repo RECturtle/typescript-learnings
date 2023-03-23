@@ -42,4 +42,5 @@ yarn.lock
 
 # parcel
 maps/dist/*
-sort/build/*
+build/*
+
